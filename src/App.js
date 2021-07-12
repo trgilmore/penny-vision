@@ -10,8 +10,10 @@ function App() {
     <Router>
       <Header />
       <div className="container">
+      <Main />
         <Switch>
-          <Route exact path="/penny-vision/" component={Main}/>
+          {//<Route exact path="/penny-vision/" component={Main}/>
+          }
           <Route path="/episodes/:id" component={Episodes}/>
         </Switch>
       </div>
