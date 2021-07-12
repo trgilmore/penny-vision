@@ -10,7 +10,6 @@ body {
 .container {
   max-width:1170px;
   margin:auto;
-
 }
 .header {
   padding:1rem;
@@ -25,27 +24,39 @@ body {
 .searchbar {
   width: 100%;
   margin: 2rem 0;
-  height: 150px;
+  height: 50px;
   outline-width: 0ch;
   outline-color: #fff;
-  align-items: center;
+  display:block;
 }
 .searchbar__form > input {
+  display:inline-block;
+  margin-left: 200px;
+  margin-right: auto;
   width: 50%;
+  height: 35px;
+  font-size: 23px;
   padding: 10px 7px;
   border: 1px solid #fff;
   background-color: #f2f3f8;
   border-radius: 10px;
   outline-width: 0ch;
   outline-color: #fff;
+
+}
+.searchbar__form > input:focus {
+  outline-width: 0ch;
+  outline-color: #fff;
 }
 .btn {
-  padding: 10px 17px;
+  display: inline-block;
+  height: 50px;
+  padding: 15px 15px;
   background: #1e2d48;
   color: #fff;
   border-radius: 10px;
-  text-emphasis-style: bold;
-  margin: 1rem 0;
+  font-weight: bold;
+  margin: auto 5px;
 
 }
 .img{
