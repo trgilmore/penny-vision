@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/penny-vision/static/css/main.bb8e038e.chunk.css",
+    "main.js": "/penny-vision/static/js/main.fb48228d.chunk.js",
+    "main.js.map": "/penny-vision/static/js/main.fb48228d.chunk.js.map",
+    "runtime-main.js": "/penny-vision/static/js/runtime-main.e33ce67a.js",
+    "runtime-main.js.map": "/penny-vision/static/js/runtime-main.e33ce67a.js.map",
+    "static/js/2.fdfe7bb0.chunk.js": "/penny-vision/static/js/2.fdfe7bb0.chunk.js",
+    "static/js/2.fdfe7bb0.chunk.js.map": "/penny-vision/static/js/2.fdfe7bb0.chunk.js.map",
+    "static/js/3.c6b8140b.chunk.js": "/penny-vision/static/js/3.c6b8140b.chunk.js",
+    "static/js/3.c6b8140b.chunk.js.map": "/penny-vision/static/js/3.c6b8140b.chunk.js.map",
+    "index.html": "/penny-vision/index.html",
+    "static/css/main.bb8e038e.chunk.css.map": "/penny-vision/static/css/main.bb8e038e.chunk.css.map",
+    "static/js/2.fdfe7bb0.chunk.js.LICENSE.txt": "/penny-vision/static/js/2.fdfe7bb0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e33ce67a.js",
+    "static/js/2.fdfe7bb0.chunk.js",
+    "static/css/main.bb8e038e.chunk.css",
+    "static/js/main.fb48228d.chunk.js"
+  ]
+}
