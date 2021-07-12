@@ -11,7 +11,7 @@ function App() {
       <Header />
       <div className="container">
         <Switch>
-          <Route exact path="/" component={Main}/>
+          <Route exact path="/penny-vision/" component={Main}/>
           <Route path="/episodes/:id" component={Episodes}/>
         </Switch>
       </div>
